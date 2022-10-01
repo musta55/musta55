@@ -14,7 +14,7 @@
 - 💬 Ask me about **Vue, Unity, java, javascript, data structure and algorithm**
 
 - 📫 How to reach me **https://musta55.github.io/MustahidHasan/**
-- - 📫 Email me **bsse1114@iit.du.ac.bd**
+- 📫 Gmail **bsse1114@iit.du.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
