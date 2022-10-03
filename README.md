@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musta55&label=Profile%20views&color=0e75b6&style=flat" alt="musta55" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musta55" alt="musta55" /></a> </p>
 
 - 🔭 I’m currently working on [Augmented Reality in Education Project](https://github.com/TasmiaZerin1128/Chemouflage.git)
 
@@ -11,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Web Technology Project](https://github.com/rakib3004/WebTech.git)
 
-- 💬 Ask me about **Vue, Unity, java, javascript, data structure and algorithm**
+- 💬 Ask me about **Angular, Unity, java, javascript, data structure and algorithm**
 
 - 📫 How to reach me **https://musta55.github.io/MustahidHasan/**
 - 📫 Gmail **bsse1114@iit.du.ac.bd**
