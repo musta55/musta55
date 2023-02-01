@@ -8,11 +8,11 @@
 
 - 🔭Popular project [Augmented Reality in Education Project](https://github.com/TasmiaZerin1128/Chemouflage.git)
 
-- 🌱 I’m currently learning **Front End and Backend Frameworks, Game Development**
+- 🌱 I’m currently learning **Front End and Backend Frameworks,Blockchain Technology, Game Development**
 
 - 👯 I’m looking to collaborate on [Web Technology Project](https://github.com/rakib3004/WebTech.git)
 
-- 💬 Ask me about **Angular, Unity, java, javascript, data structure and algorithm**
+- 💬 Ask me about **Angular, Solidity, Hyperledger, Unity, java, javascript, data structure and algorithm**
 
 - 📫 How to reach me **https://musta55.github.io/MustahidHasan/**
 - 📫 Gmail **bsse1114@iit.du.ac.bd**
