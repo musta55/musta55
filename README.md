@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mustahid Hasan</h1>
 <h3 align="center">A student of Software Engineering Major</h3>
 
+<h2 align="center">Currently working as a Full Stack Web3 Developer Trainee</h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musta55&label=Profile%20views&color=0e75b6&style=flat" alt="musta55" /> </p>
 
 
-- 🔭 I’m currently working on [Augmented Reality in Education Project](https://github.com/TasmiaZerin1128/Chemouflage.git)
+- 🔭Popular project [Augmented Reality in Education Project](https://github.com/TasmiaZerin1128/Chemouflage.git)
 
 - 🌱 I’m currently learning **Front End and Backend Frameworks, Game Development**
 
