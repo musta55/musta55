@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musta55&label=Profile%20views&color=0e75b6&style=flat" alt="musta55" /> </p>
 
+- 📫 My Portfolio **https://musta55.github.io/MustahidHasan/**
 
 - 🔭Popular project [Augmented Reality in Education Project](https://github.com/TasmiaZerin1128/Chemouflage.git)
 
@@ -14,7 +15,6 @@
 
 - 💬 Ask me about **Angular, Solidity, Hyperledger, Unity, java, javascript, data structure and algorithm**
 
-- 📫 How to reach me **https://musta55.github.io/MustahidHasan/**
 - 📫 Gmail **bsse1114@iit.du.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
