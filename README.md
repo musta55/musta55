@@ -19,7 +19,7 @@
 
 <h3 align="left">Leetcode Stats:</h3>
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+
  
  ![LeetCode Stats](https://leetcard.jacoblin.cool/Mustahid?theme=unicorn&font=Noto%20Sans%20Mongolian&ext=heatmap)
  
