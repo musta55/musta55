@@ -16,7 +16,7 @@
 - 💬 Ask me about **Angular,React,Unity, java, javascript, Solidity, Hyperledger, data structure and algorithm**
 - 🌱 Fun Fact -My  [Personality]( https://www.16personalities.com/profiles/a3d4c5137f568) Type
 
-- 📫 Email **bsse1114@iit.du.ac.bd**
+- 📫 Email **mustahidhasansakib@gmail.com**
 
 <h3 align="left">Leetcode Stats:</h3>
 
