@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is Mustahid Hasan</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%60ffdf&size=25&center=true&vCenter=true&width=800&height=100&lines=PhD Student at College of William and Mary"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%60ffdf&size=25&center=true&vCenter=true&width=800&height=100&lines=Former+Software+Engineer+at+Samsung+R&D+Institute+Bangladesh;PhD+Student+at+College+of+William+&+Mary"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musta55&label=Profile%20views&color=0e75b6&style=flat" alt="musta55" /> </p>
